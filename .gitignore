@@ -1,0 +1,7 @@
+source/
+*.tar.gz
+.DS_Store
+.openai/
+*.zip
+outputs/
+dist/logos/
